@@ -20,8 +20,6 @@
 
 #import <objc/runtime.h>
 
-#import <AdSupport/AdSupport.h>
-
 #import "FBSDKAccessToken.h"
 #import "FBSDKAppEvents.h"
 #import "FBSDKAppEventsDeviceInfo.h"
